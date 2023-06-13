@@ -1,4 +1,4 @@
-# Project OverView
+# Project Overview
 
 Domain:  Consumer Goods | Function: Executive Management
 
